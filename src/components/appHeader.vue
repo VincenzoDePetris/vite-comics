@@ -76,7 +76,10 @@ export default {
 
 <style lang="scss" scoped>
 .dad {
+  width: 1400px;
+  margin: auto;
   height: 100px;
+  margin-bottom: 2px;
   img {
     width: 75px;
   }
