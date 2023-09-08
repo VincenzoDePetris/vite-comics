@@ -92,7 +92,10 @@ export default {
     list-style: none;
     a {
       text-decoration: none;
-      color: whitesmoke;
+      color: rgb(159, 159, 159);
+      &:hover {
+        color: whitesmoke;
+      }
     }
   }
 }
