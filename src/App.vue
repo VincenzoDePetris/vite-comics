@@ -4,9 +4,7 @@ import appMain from "./components/appMain.vue";
 import appFooter from "./components/appFooter.vue";
 
 export default {
-  components: { appHeader },
-  components: { appMain },
-  components: { appFooter },
+  components: { appHeader, appMain, appFooter },
 };
 </script>
 
