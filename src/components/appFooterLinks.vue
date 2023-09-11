@@ -69,7 +69,7 @@ export default {
 <style lang="scss" scoped>
 .bg-ph {
   height: 400px;
-  background-image: url("/public/img/footer-bg.jpg");
+  background-image: url("/img/footer-bg.jpg");
 }
 
 .dad {

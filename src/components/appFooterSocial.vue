@@ -3,11 +3,11 @@ export default {
   data() {
     return {
       social: [
-        "/public/img/footer-facebook.png",
-        "/public/img/footer-periscope.png",
-        "/public/img/footer-pinterest.png",
-        "/public/img/footer-twitter.png",
-        "/public/img/footer-youtube.png",
+        "/img/footer-facebook.png",
+        "/img/footer-periscope.png",
+        "/img/footer-pinterest.png",
+        "/img/footer-twitter.png",
+        "/img/footer-youtube.png",
       ],
     };
   },

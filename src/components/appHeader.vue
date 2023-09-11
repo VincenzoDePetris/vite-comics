@@ -57,7 +57,7 @@ export default {
 
 <template>
   <div class="dad">
-    <div><img src="/public/img/dc-logo.png" alt="" /></div>
+    <div><img src="/img/dc-logo.png" alt="" /></div>
     <div>
       <ul>
         <li

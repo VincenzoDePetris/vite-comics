@@ -5,23 +5,23 @@ export default {
       commerce: [
         {
           text: "DIGITAL COMICS",
-          img: "/public/img/buy-comics-digital-comics.png",
+          img: "/img/buy-comics-digital-comics.png",
         },
         {
           text: "DC MERCHANDISE",
-          img: "/public/img/buy-comics-merchandise.png",
+          img: "/img/buy-comics-merchandise.png",
         },
         {
           text: "SUBSCRIPTION",
-          img: "/public/img/buy-comics-shop-locator.png",
+          img: "/img/buy-comics-shop-locator.png",
         },
         {
           text: "COMIC SHOP LOCATOR",
-          img: "/public/img/buy-comics-subscriptions.png",
+          img: "/img/buy-comics-subscriptions.png",
         },
         {
           text: "DC POWER VISA",
-          img: "/public/img/buy-dc-power-visa.svg",
+          img: "/img/buy-dc-power-visa.svg",
         },
       ],
     };
